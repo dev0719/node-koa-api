@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "growl": "^1.10.5",
-    "koa": "^2.3.0"
+    "koa": "^2.3.0",
+    "superagent": "^5.1.0"
   }
 }
