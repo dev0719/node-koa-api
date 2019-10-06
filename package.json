@@ -15,6 +15,7 @@
     "mocha": "3.5.0"
   },
   "dependencies": {
+    "growl": "^1.10.5",
     "koa": "^2.3.0"
   }
 }
